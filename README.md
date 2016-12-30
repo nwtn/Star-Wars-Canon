@@ -242,6 +242,8 @@
 * [Smuggler’s Run](https://www.youtube.com/watch?v=oeocHQ_K-Vw)
 * [The Weapon of a Jedi](https://www.youtube.com/watch?v=BkBS3J99IwY)
 * [Episode V: The Empire Strikes Back [Harmy’s Despecialized Edition]](https://docs.google.com/document/d/1yLsvexWBVM8IYSGopKuSfsGk5YIgCwQWd23bqb5ryD4/pub)
+* [Droid World](https://www.youtube.com/watch?v=6jjEm6g3FNw)
+* [Planet of the Hoojibs](https://www.youtube.com/watch?v=kMJllPYMyzs)
 * [Ewoks](http://thetvdb.com/?tab=series&id=73697&lid=7): S01E01 The Cries of the Trees
 * [Ewoks](http://thetvdb.com/?tab=series&id=73697&lid=7): S01E02 The Haunted Village
 * [Ewoks](http://thetvdb.com/?tab=series&id=73697&lid=7): S01E03 Rampage of the Phlogs
@@ -281,4 +283,5 @@
 * [Ewoks](http://thetvdb.com/?tab=series&id=73697&lid=7): S02E22 Malani the Warrior
 * [Episode VI: Return of the Jedi [Harmy’s Despecialized Edition]](https://docs.google.com/document/d/1yLsvexWBVM8IYSGopKuSfsGk5YIgCwQWd23bqb5ryD4/pub)
 * [Star Tours](https://www.themoviedb.org/movie/98016-star-tours)
+* [The Mixed-Up Droid](https://www.youtube.com/watch?v=GV0I935VfD4)
 * [Episode VII: The Force Awakens](https://www.themoviedb.org/movie/140607-star-wars-episode-vii-the-force-awakens)
