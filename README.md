@@ -155,6 +155,10 @@
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): The Bad Batch Story Reels: A Distant Echo
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): The Bad Batch Story Reels: On the Wings of Keeradaks
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): The Bad Batch Story Reels: Unfinished Business
+* [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Animatic: Bounty Hunters
+* [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Animatic: Ahsoka’s Walkabout
+* [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Animatic: Dark Disciple
+* [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Animatic: Kashyyyk
 * [Clone Wars: Volume 2](https://www.youtube.com/watch?v=9WBY-C-VKTg)
   (start with Obi-Wan being awoken by dripping water on a battlefield, the last half of Chapter 22)
 * [Episode III: Revenge of the Sith [HAL 9000 Fan Edit: Labyrinth of Evil]](http://fanedit.info/fanedits/)
