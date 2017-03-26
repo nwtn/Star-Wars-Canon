@@ -240,6 +240,13 @@
 * [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E12 Ghosts of Geonosis part 2
 * [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E13 Warhead
 * [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E14 Trials of the Darksaber
+* [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E15 Legacy of Mandalore
+* [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E16 Through Imperial Eyes
+* [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E17 Secret Cargo
+* [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E18 Double Agent Droid
+* [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E19 Twin Suns
+* [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E20 Zero Hour Part I
+* [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E21 Zero Hour Part II
 * [Rogue One](https://www.themoviedb.org/movie/330459-rogue-one-a-star-wars-story)
 * [Episode IV: A New Hope [Adywan Fan Edit: Star Wars Revisited]](http://fanedit.info/fanedits/)
 * [Holiday Special](https://www.themoviedb.org/movie/74849-star-wars-holiday-special)
