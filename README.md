@@ -50,6 +50,7 @@
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S01E19 Storm over Ryloth
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S01E20 Innocents of Ryloth
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S01E21 Liberty on Ryloth
+* [The Clone Wars: Republic Heroes](http://starwars.wikia.com/wiki/Star_Wars:_The_Clone_Wars:_Republic_Heroes)
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S02E01 Holocron Heist
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S02E02 Cargo of Doom
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S02E03 Children of the Force
@@ -147,16 +148,17 @@
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S06E11 Voices
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S06E12 Destiny
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S06E13 Sacrifice
+* [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Animatic: Bounty Hunters
+* [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Animatic: Bounty Hunters part 2: Bobba Fett vs Cad Bane
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Crystal Crisis On Utapau Story Reels: A Death on Utapau
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Crystal Crisis On Utapau Story Reels: In Search of the Crystal
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Crystal Crisis On Utapau Story Reels: Crystal Crisis
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Crystal Crisis On Utapau Story Reels: The Big Bang
+* [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Animatic: Ahsoka’s Walkabout
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): The Bad Batch Story Reels: The Bad Batch
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): The Bad Batch Story Reels: A Distant Echo
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): The Bad Batch Story Reels: On the Wings of Keeradaks
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): The Bad Batch Story Reels: Unfinished Business
-* [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Animatic: Bounty Hunters
-* [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Animatic: Ahsoka’s Walkabout
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Animatic: Dark Disciple
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): Animatic: Kashyyyk
 * [Clone Wars: Volume 2](https://www.youtube.com/watch?v=9WBY-C-VKTg)
