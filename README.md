@@ -79,6 +79,7 @@
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S03E08 Evil Plans
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S01E22 Hostage Crisis
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S03E09 Hunt for Ziro
+* Forces of Destiny: S01E04 The Padawan Path
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S03E10 Heroes on Both Side
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S03E11 Pursuit of Peace
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S02E15 Senate Murders
@@ -131,6 +132,7 @@
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S05E14 Eminence
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S05E15 Shades of Reason
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S05E16 The Lawless
+* Forces of Destiny: S01E06 The Imposter Inside
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S05E17 Sabotage
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S05E18 The Jedi Who Knew Too Much
 * [The Clone Wars](http://thetvdb.com/?tab=series&id=83268&lid=7): S05E19 To Catch a Jedi
@@ -254,6 +256,7 @@
 * [Holiday Special](https://www.themoviedb.org/movie/74849-star-wars-holiday-special)
 * [Smuggler’s Run](https://www.youtube.com/watch?v=oeocHQ_K-Vw)
 * [The Weapon of a Jedi](https://www.youtube.com/watch?v=BkBS3J99IwY)
+* Forces of Destiny: S01E05 Beasts of Echo Base
 * [Episode V: The Empire Strikes Back [Harmy’s Despecialized Edition]](https://docs.google.com/document/d/1yLsvexWBVM8IYSGopKuSfsGk5YIgCwQWd23bqb5ryD4/pub)
 * [Droid World](https://www.youtube.com/watch?v=6jjEm6g3FNw)
 * [Planet of the Hoojibs](https://www.youtube.com/watch?v=kMJllPYMyzs)
@@ -295,6 +298,9 @@
 * [Ewoks](http://thetvdb.com/?tab=series&id=73697&lid=7): S02E21 Party Ewok
 * [Ewoks](http://thetvdb.com/?tab=series&id=73697&lid=7): S02E22 Malani the Warrior
 * [Episode VI: Return of the Jedi [Harmy’s Despecialized Edition]](https://docs.google.com/document/d/1yLsvexWBVM8IYSGopKuSfsGk5YIgCwQWd23bqb5ryD4/pub)
+* Forces of Destiny: S01E03 Ewok Escape
 * [Star Tours](https://www.themoviedb.org/movie/98016-star-tours)
 * [The Mixed-Up Droid](https://www.youtube.com/watch?v=GV0I935VfD4)
 * [Episode VII: The Force Awakens](https://www.themoviedb.org/movie/140607-star-wars-episode-vii-the-force-awakens)
+* Forces of Destiny: S01E01 Sands of Jakku
+* Forces of Destiny: S01E02 BB-8 Bandits
