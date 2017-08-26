@@ -161,6 +161,7 @@
 * The New Batman Adventures s02e08 Chemistry
 * The New Batman Adventures s02e10 Beware the Creeper
 * The New Batman Adventures s02e09 Judgment Day
+* Batman and Harley Quinn
 * Gotham Girls s01e01 The Vault
 * Gotham Girls s01e02 Lap Bat
 * Gotham Girls s01e03 Trick or Trick, Part 1
