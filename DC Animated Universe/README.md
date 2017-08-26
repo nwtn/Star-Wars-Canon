@@ -4,6 +4,7 @@
 * Superman the Animated Series s01e02 The Last Son of Krypton, Part 2 [Act 1]
 * Superman the Animated Series s03e03 New Kids in Town
 * Superman the Animated Series s01e02 The Last Son of Krypton, Part 2 [Act 2]
+* The Dark Knight’s First Night
 * Batman the Animated Series s01e02 On Leather Wings
 * Batman the Animated Series s01e38 Christmas with the Joker
 * Batman the Animated Series s01e10 Nothing to Fear
@@ -211,6 +212,7 @@
 * Static Shock s01e11 Junior
 * Static Shock s01e12 Replay
 * Static Shock s01e13 Tantrum
+* Justice League—The First Mission
 * Justice League s01e01 Secret Origins, Part 1
 * Justice League s01e02 Secret Origins, Part 2
 * Justice League s01e03 Secret Origins, Part 3
