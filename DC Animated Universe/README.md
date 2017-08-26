@@ -233,8 +233,8 @@
 * Static Shock s02e07 Pop’s Girlfriend
 * Justice League s01e14 The Brave and the Bold, Part 1
 * Justice League s01e15 The Brave and the Bold, Part 2
-* Static Shock s01e08 Bad Stretch
-* Static Shock s01e09 Attack of the Living Brain Puppets
+* Static Shock s02e08 Bad Stretch
+* Static Shock s02e09 Attack of the Living Brain Puppets
 * Justice League s01e16 Fury, Part 1
 * Justice League s01e17 Fury, Part 2
 * Justice League s01e18 Legends, Part 1
@@ -281,8 +281,8 @@
 * Lobo s01e06 Bustin’ out of Oblivion, Part 1
 * Lobo s01e07 Bustin’ out of Oblivion, Part 2
 * Lobo s01e08 Bustin’ out of Oblivion, Part 3
-* Lobo s01e10 Breakout!
-* Lobo s01e09 Lobo for President
+* Lobo s01e09 Breakout!
+* Lobo s01e10 Lobo for President
 * Lobo s01e11 When Pigs Fly
 * Lobo s01e12 Arms & The Main Man
 * Lobo s01e13 Eat This!
@@ -419,7 +419,7 @@
 * The Zeta Project s01e09 Crime Waves
 * The Zeta Project s01e10 Taffy Time
 * The Zeta Project s01e11 Ro’s Reunion
-* The Zeta Project s02e12 Kid Genius
+* The Zeta Project s01e12 Kid Genius
 * Batman Beyond s03e13 Unmasked
 * The Zeta Project s02e01 Absolute Zero
 * The Zeta Project s02e02 Wired, Part 1
