@@ -264,7 +264,6 @@
 * The X-Files s09e01 Nothing Important Happened Today (1)
 * The X-Files s09e02 Nothing Important Happened Today II (2)
 * The Lone Gunmen s01e13 The Cap’n Toby Show
-* The Lone Gunmen s01e12 All About Yves
 * The X-Files s09e03 Dæmonicus
 * The X-Files s09e04 4-D
 * The X-Files s09e05 Lord of the Flies
@@ -277,6 +276,7 @@
 * The X-Files s09e12 Underneath
 * The X-Files s09e13 Improbable
 * The X-Files s09e14 Scary Monsters
+* The Lone Gunmen s01e12 All About Yves
 * The X-Files s09e15 Jump the Shark
 * The X-Files s09e16 William
 * The X-Files s09e17 Release
