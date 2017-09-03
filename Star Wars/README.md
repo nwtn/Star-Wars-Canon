@@ -306,4 +306,12 @@
 * [Episode VII: The Force Awakens](https://www.themoviedb.org/movie/140607-star-wars-episode-vii-the-force-awakens)
 * Forces of Destiny: S01E01 Sands of Jakku
 * Forces of Destiny: S01E02 BB-8 Bandits
+* Star Wars Blips: S01E01 Lightsaber
+* Star Wars Blips: S01E02 One Up
+* Star Wars Blips: S01E03 Out of Reach
+* Star Wars Blips: S01E04 The Chase
 * Episode VIII: The Last Jedi
+* Star Wars Blips: S01E05 Keep Away
+* Star Wars Blips: S01E06 Hey You
+* Star Wars Blips: S01E07 Fan Droids
+* Star Wars Blips: S01E08 Stowaway
