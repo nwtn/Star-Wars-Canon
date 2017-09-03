@@ -210,6 +210,7 @@
 * [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S01E12 Rebel Resolve
 * [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S01E13 Fire Across the Galaxy
 * [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S00E12 The Siege of Lothal
+* Forces of Destiny: S01E07 The Stranger
 * [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S02E01 The Lost Commanders
 * [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S02E02 Relics of the Old Republic
 * [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S02E03 Always Two There Are
@@ -251,6 +252,7 @@
 * [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E19 Twin Suns
 * [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E20 Zero Hour Part I
 * [Rebels](http://thetvdb.com/?tab=series&id=283468&lid=7): S03E21 Zero Hour Part II
+* Forces of Destiny: S01E07 The Stranger
 * [Rogue One](https://www.themoviedb.org/movie/330459-rogue-one-a-star-wars-story)
 * [Episode IV: A New Hope [Adywan Fan Edit: Star Wars Revisited]](http://fanedit.info/fanedits/)
 * [Holiday Special](https://www.themoviedb.org/movie/74849-star-wars-holiday-special)
