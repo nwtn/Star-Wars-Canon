@@ -306,3 +306,4 @@
 * [Episode VII: The Force Awakens](https://www.themoviedb.org/movie/140607-star-wars-episode-vii-the-force-awakens)
 * Forces of Destiny: S01E01 Sands of Jakku
 * Forces of Destiny: S01E02 BB-8 Bandits
+* Episode VIII: The Last Jedi
