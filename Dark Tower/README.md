@@ -3,7 +3,8 @@
 This isn’t so much an order I think is *right* as it is the order I have read things/intend to read things.
 
 * The Stand
-* Everything’s Eventual/“The Little Sisters of Eluria”, “Everything’s Eventual”
+* The Long Walk
+* Everything’s Eventual/“Autopsy Room Four”, “The Little Sisters of Eluria”, “Everything’s Eventual”
 * **The Dark Tower I: The Gunslinger**
 * The Eyes of the Dragon
 * **The Dark Tower II: The Drawing of the Three**
@@ -12,7 +13,7 @@ This isn’t so much an order I think is *right* as it is the order I have read 
 * It
 * Insomnia
 * Black House
-* Skeleton Crew/“The Mist”
+* Skeleton Crew/“The Mist”, “The Ballad of the Flexible Bullet”
 * **The Dark Tower IV: Wizard and Glass**
 * ‘Salem’s Lot
 * Rose Madder
@@ -38,6 +39,25 @@ This isn’t so much an order I think is *right* as it is the order I have read 
 * UR
 * Doctor Sleep
 * Revival
+* The Tommyknockers
+* Needful Things
+* Storm of the Century
+* The Plant: Zenith Rising
+* Dreamcatcher
+* Firestarter
+* Misery
+* The Dead Zone
+* Blockade Billy
+* Cell
+* Home Delivery
+* Lisey’s Story
+* N
+* The Night Flier
+* Night Surf
+* Pet Sematary
+* The Shining
+* Sleepwalers
+* UR
 
 ---
 
