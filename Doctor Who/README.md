@@ -8,7 +8,6 @@
 ## Season 1 / First Doctor (William Hartnell)
 
 * An Unearthly Child (Unaired Pilot)
-* Doctor Who (1963) - s01e01 - An Unearthly Child (1) - An Unearthly Child
 * Doctor Who (1963) - s01e02 - An Unearthly Child (2) - The Cave of Skulls
 * Doctor Who (1963) - s01e03 - An Unearthly Child (3) - The Forest of Fear
 * Doctor Who (1963) - s01e04 - An Unearthly Child (4) - The Firemaker
@@ -103,7 +102,7 @@
 * Doctor Who (1963) - s03e02 - Galaxy 4 (2) - Trap of Steel (Loose Cannon Recon)
 * Doctor Who (1963) - s03e03 - Galaxy 4 (3) - Air Lock (Loose Cannon Recon)
 * Doctor Who (1963) - s03e04 - Galaxy 4 (4) - The Exploding Planet (Loose Cannon Recon)
-* Doctor Who (1963) - s03e05 - Mission to the Unknown (Fan Animation)
+* Doctor Who (1963) - s03e05 - Galaxy 4 (5) - Mission to the Unknown (Fan Animation)
 * Doctor Who (1963) - s03e06 - The Myth Makers (1) - Temple of Secrets (Loose Cannon Recon)
 * Doctor Who (1963) - s03e07 - The Myth Makers (2) - Small Prophet, Quick Return (Loose Cannon Recon)
 * Doctor Who (1963) - s03e08 - The Myth Makers (3) - Death of a Spy (Loose Cannon Recon)
@@ -121,7 +120,6 @@
 * Doctor Who (1963) - s03e20 - The Daleks’ Master Plan (11) - The Abandoned Planet (Loose Cannon Recon)
 * Doctor Who (1963) - s03e21 - The Daleks’ Master Plan (12) - Destruction of Time (Fan Animation)
 * The Five Doctors (Special Edition)
-* Dimensions in Time
 * The Day of the Doctor
 * Destiny of the Doctors—The 1st Doctor (Game)
 * Doctor Who (1963) - s03e22 - The Massacre (1) - War of God (Loose Cannon Recon)
@@ -158,8 +156,10 @@
 * Doctor Who (1963) - s04e05 - The Tenth Planet (1)
 * Doctor Who (1963) - s04e06 - The Tenth Planet (2)
 * Doctor Who (1963) - s04e07 - The Tenth Planet (3)
-* Doctor Who (1963) - s04e08 - The Tenth Planet (4) (Official Animation)
+* Doctor Who (1963) - s04e08 - The Tenth Planet (4) (Official Animation) — until the Doctor enters the Tardis (~21:20)
 * Doctor Who (2005) - s10e12 - The Doctor Falls
+* Twice Upon a Time
+* Doctor Who (1963) - s04e08 - The Tenth Planet (4) (Official Animation) — after the Doctor enters the Tardis (~21:20)
 
 ## Season 4 / Second Doctor (Patrick Troughton)
 
@@ -242,13 +242,13 @@
 * Doctor Who (1963) - s05e39 - The Wheel in Space (5) (Loose Cannon Recon)
 * Doctor Who (1963) - s05e40 - The Wheel in Space (6)
 * The Evil of the Daleks—Repeat Broadcast Intro
-* Doctor Who (1963) - s04e37 - The Evil of the Daleks (1) (Loose Cannon Recon)
-* Doctor Who (1963) - s04e38 - The Evil of the Daleks (2)
-* Doctor Who (1963) - s04e39 - The Evil of the Daleks (3) (Loose Cannon Recon)
-* Doctor Who (1963) - s04e40 - The Evil of the Daleks (4) (Loose Cannon Recon)
-* Doctor Who (1963) - s04e41 - The Evil of the Daleks (5) (Loose Cannon Recon)
-* Doctor Who (1963) - s04e42 - The Evil of the Daleks (6) (Loose Cannon Recon)
-* Doctor Who (1963) - s04e43 - The Evil of the Daleks (7) (Fan Animation)
+* Doctor Who (1963) - s04e37 - The Evil of the Daleks (1) (Loose Cannon Recon) [Rewatch]
+* Doctor Who (1963) - s04e38 - The Evil of the Daleks (2) [Rewatch]
+* Doctor Who (1963) - s04e39 - The Evil of the Daleks (3) (Loose Cannon Recon) [Rewatch]
+* Doctor Who (1963) - s04e40 - The Evil of the Daleks (4) (Loose Cannon Recon) [Rewatch]
+* Doctor Who (1963) - s04e41 - The Evil of the Daleks (5) (Loose Cannon Recon) [Rewatch]
+* Doctor Who (1963) - s04e42 - The Evil of the Daleks (6) (Loose Cannon Recon) [Rewatch]
+* Doctor Who (1963) - s04e43 - The Evil of the Daleks (7) (Fan Animation) [Rewatch]
 
 ## Season 6 / Second Doctor (Patrick Troughton)
 
@@ -303,11 +303,10 @@
 * Doctor Who (1963) - s22e07 - The Two Doctors (1)
 * Doctor Who (1963) - s22e08 - The Two Doctors (2)
 * Doctor Who (1963) - s22e09 - The Two Doctors (3)
-* Destiny of the Doctors—The 2nd Doctor (Game)
 * The Day of the Doctor [Rewatch 1]
 * The Five Doctors (Special Edition) [Rewatch 1]
-* Dimensions in Time [Rewatch 1]
 * Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 1]
+* Destiny of the Doctors—The 2nd Doctor (Game)
 * Devious
 
 ## Season 7 / Third Doctor (Jon Pertwee)
@@ -411,17 +410,18 @@
 * Doctor Who (1963) - s10e12 - Frontier in Space (4)
 * Doctor Who (1963) - s10e13 - Frontier in Space (5)
 * Doctor Who (1963) - s10e14 - Frontier in Space (6)
-* Mindgame
-* Mindgame: Trilogy
 * Doctor Who (1963) - s10e15 - Planet of the Daleks (1)
 * Doctor Who (1963) - s10e16 - Planet of the Daleks (2)
 * Doctor Who (1963) - s10e17 - Planet of the Daleks (3)
 * Doctor Who (1963) - s10e18 - Planet of the Daleks (4)
 * Doctor Who (1963) - s10e19 - Planet of the Daleks (5)
 * Doctor Who (1963) - s10e20 - Planet of the Daleks (6)
-* Destiny of the Doctors—The 3rd Doctor (Game)
+* Mindgame
+* Mindgame: Trilogy
 * UNIT Recruitment Film
-* Doctor Who (1963) - s10e21 - The Green Death (1)
+* Doctor Who (1963) - s10e21 - The Green Death (1) — until the Doctor leaves Metebelis III (~20:01)
+* Destiny of the Doctors—The 3rd Doctor (Game)
+* Doctor Who (1963) - s10e21 - The Green Death (1) — after the Doctor leaves Metebelis III (~20:01)
 * Doctor Who (1963) - s10e22 - The Green Death (2)
 * Doctor Who (1963) - s10e23 - The Green Death (3)
 * Doctor Who (1963) - s10e24 - The Green Death (4)
@@ -454,7 +454,7 @@
 * The Ultimate Adventure (Jon Pertwee)
 * Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 2]
 * The Five Doctors (Special Edition) [Rewatch 2]
-* Dimensions in Time [Rewatch 2]
+* Dimensions in Time
 * Lost in the Dark Dimension (1) (Fan Animation)
 * Lost in the Dark Dimension (2) (Fan Animation)
 * Lost in the Dark Dimension (3) (Fan Animation)
@@ -480,13 +480,13 @@
 * Doctor Who (1963) - s12e08 - The Ark in Space (4)
 * Doctor Who (1963) - s12e09 - The Sontaran Experiment (1)
 * Doctor Who (1963) - s12e10 - The Sontaran Experiment (2)
-* Wartime
 * Doctor Who (1963) - s12e11 - Genesis of the Daleks (1)
 * Doctor Who (1963) - s12e12 - Genesis of the Daleks (2)
 * Doctor Who (1963) - s12e13 - Genesis of the Daleks (3)
 * Doctor Who (1963) - s12e14 - Genesis of the Daleks (4)
 * Doctor Who (1963) - s12e15 - Genesis of the Daleks (5)
 * Doctor Who (1963) - s12e16 - Genesis of the Daleks (6)
+* Wartime
 * Doctor Who (1963) - s12e17 - Revenge of the Cybermen (1)
 * Doctor Who (1963) - s12e18 - Revenge of the Cybermen (2)
 * Doctor Who (1963) - s12e19 - Revenge of the Cybermen (3)
@@ -581,6 +581,7 @@
 * Doctor Who (1963) - s15e24 - The Invasion of Time (4)
 * Doctor Who (1963) - s15e25 - The Invasion of Time (5)
 * Doctor Who (1963) - s15e26 - The Invasion of Time (6)
+* Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 3]
 
 ## Season 16 / Fourth Doctor (Tom Baker)
 
@@ -633,9 +634,9 @@
 * Doctor Who (1963) - s17e18 - Horns of Nimon (2)
 * Doctor Who (1963) - s17e19 - Horns of Nimon (3)
 * Doctor Who (1963) - s17e20 - Horns of Nimon (4)
-* Doctor Who (1963) - s17e21-e26 - Shada (Reconstruction)
+* Doctor Who (1963) - s17e21-e26 - Shada (2017 Version)
 * The Five Doctors (Special Edition) [Rewatch 3]
-* Dimensions in Time [Rewatch 3]
+* Dimensions in Time [Rewatch 1]
 
 ## Season 18 / Fourth Doctor (Tom Baker)
 
@@ -704,13 +705,16 @@
 * Doctor Who (1963) - s19e24 - Time-Flight (2)
 * Doctor Who (1963) - s19e25 - Time-Flight (3)
 * Doctor Who (1963) - s19e26 - Time-Flight (4)
+* Destiny of the Doctors—The 5th Doctor (Game)
 * Time Crash
+* The First Adventure (Game)
 
 ## Season 20 / Fifth Doctor (Peter Davison)
 
 * Doctor Who (1963) - s20e01 - Arc of Infinity (1)
 * Doctor Who (1963) - s20e02 - Arc of Infinity (2)
 * Doctor Who (1963) - s20e03 - Arc of Infinity (3)
+* Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 4]
 * Doctor Who (1963) - s20e04 - Arc of Infinity (4)
 * Doctor Who (1963) - s20e05 - Snakedance (1)
 * Doctor Who (1963) - s20e06 - Snakedance (2)
@@ -728,8 +732,7 @@
 * Doctor Who (1963) - s20e21 - The King’s Demons (1)
 * Doctor Who (1963) - s20e22 - The King’s Demons (2)
 * The Five Doctors (Special Edition) [Rewatch 4]
-* Dimensions in Time [Rewatch 4]
-* The First Adventure (Game)
+* Dimensions in Time [Rewatch 2]
 
 ## Season 21 / Fifth Doctor (Peter Davison)
 
@@ -749,18 +752,20 @@
 * Doctor Who (1963) - s21e13 - Resurrection of the Daleks (3)
 * Doctor Who (1963) - s21e14 - Resurrection of the Daleks (4)
 * Planet of Fire (Special Edition)
-* Destiny of the Doctors—The 5th Doctor (Game)
 * Doctor Who (1963) - s21e19 - The Caves of Androzani (1)
 * Doctor Who (1963) - s21e20 - The Caves of Androzani (2)
 * Doctor Who (1963) - s21e21 - The Caves of Androzani (3)
 * Doctor Who (1963) - s21e22 - The Caves of Androzani (4)
 
-## Season 22 / Sixth Doctor (Colin Baker)
+## Season 21 / Sixth Doctor (Colin Baker)
 
 * Doctor Who (1963) - s21e23 - The Twin Dilemma (1)
 * Doctor Who (1963) - s21e24 - The Twin Dilemma (2)
 * Doctor Who (1963) - s21e25 - The Twin Dilemma (3)
 * Doctor Who (1963) - s21e26 - The Twin Dilemma (4)
+
+## Season 22 / Sixth Doctor (Colin Baker)
+
 * Doctor Who (1963) - s22e01 - Attack of the Cybermen (1)
 * Doctor Who (1963) - s22e02 - Attack of the Cybermen (2)
 * Doctor Who (1963) - s22e03 - Vengeance on Varos (1)
@@ -796,8 +801,8 @@
 * Doctor Who (1963) - s23e13 - The Ultimate Foe (1)
 * Doctor Who (1963) - s23e14 - The Ultimate Foe (2)
 * The Ultimate Adventure (Colin Baker)
-* Dimensions in Time [Rewatch 5]
-* Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 3]
+* Dimensions in Time [Rewatch 3]
+* Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 5]
 * Real Time (1)
 * Real Time (2)
 * Real Time (3)
@@ -805,10 +810,10 @@
 * Real Time (5)
 * Real Time (6)
 * The Day of the Doctor [Rewatch 5]
-* Doctor Who (1963) - s23e09 - Terror of the Vervoids (1)
-* Doctor Who (1963) - s23e10 - Terror of the Vervoids (2)
-* Doctor Who (1963) - s23e11 - Terror of the Vervoids (3)
-* Doctor Who (1963) - s23e12 - Terror of the Vervoids (4)
+* Doctor Who (1963) - s23e09 - Terror of the Vervoids (1) [Rewatch]
+* Doctor Who (1963) - s23e10 - Terror of the Vervoids (2) [Rewatch]
+* Doctor Who (1963) - s23e11 - Terror of the Vervoids (3) [Rewatch]
+* Doctor Who (1963) - s23e12 - Terror of the Vervoids (4) [Rewatch]
 
 ## Season 24 / Seventh Doctor (Sylvester McCoy)
 
@@ -824,17 +829,9 @@
 * Doctor Who (1963) - s24e10 - Delta and the Bannermen (2)
 * Doctor Who (1963) - s24e11 - Delta and the Bannermen (3)
 * Doctor Who (1963) - s24e12 - Dragonfire (1)
+* Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 6]
 * Doctor Who (1963) - s24e13 - Dragonfire (2)
 * Doctor Who (1963) - s24e14 - Dragonfire (3)
-* Destiny of the Doctors—The 1st Doctor (Game) [Rewatch]
-* Destiny of the Doctors—The 2nd Doctor (Game) [Rewatch]
-* Destiny of the Doctors—The 3rd Doctor (Game) [Rewatch]
-* Destiny of the Doctors—The 4th Doctor (Game) [Rewatch]
-* Destiny of the Doctors—The 5th Doctor (Game) [Rewatch]
-* Destiny of the Doctors—The 6th Doctor (Game) [Rewatch]
-* Destiny of the Doctors—The 7th Doctor (Finale) (Game)
-* Dimensions in Time [Rewatch 6]
-* Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 4]
 
 ## Season 25 / Seventh Doctor (Sylvester McCoy)
 
@@ -863,6 +860,14 @@
 * Doctor Who (1963) - s26e12 - Survival (1)
 * Doctor Who (1963) - s26e13 - Survival (2)
 * Doctor Who (1963) - s26e14 - Survival (3)
+* Destiny of the Doctors—The 1st Doctor (Game) [Rewatch]
+* Destiny of the Doctors—The 2nd Doctor (Game) [Rewatch]
+* Destiny of the Doctors—The 3rd Doctor (Game) [Rewatch]
+* Destiny of the Doctors—The 4th Doctor (Game) [Rewatch]
+* Destiny of the Doctors—The 5th Doctor (Game) [Rewatch]
+* Destiny of the Doctors—The 6th Doctor (Game) [Rewatch]
+* Destiny of the Doctors—The 7th Doctor (Finale) (Game)
+* Dimensions in Time [Rewatch 4]
 * Search Out Science—Search Out Space
 * Shakedown—Return of the Sontarans
 * Mindgame [Rewatch]
@@ -883,10 +888,10 @@
 
 ## Eighth Doctor (Paul McGann)
 
-* P.R.O.B.E.—The Zero Imperative
 * Doctor Who—The Movie
+* P.R.O.B.E.—The Zero Imperative
 * The Day of the Doctor [Rewatch 7]
-* Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 5]
+* Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 7]
 * Shada (Webcast) (1)—A Mystery in Cambridge
 * Shada (Webcast) (2)—The Race for the Book
 * Shada (Webcast) (3)—The Doctor Loses His Mind
@@ -898,20 +903,27 @@
 * Doctor Who (2005) - s04e12 - The Stolen Earth
 * The Night of the Doctor
 
-## Interim Doctors
+## The War Doctor
 
+* Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 8]
+* The Day of the Doctor [Rewatch 8]
 * P.R.O.B.E.—The Devil of Winterborne
 * P.R.O.B.E.—Unnatural Selection
 * P.R.O.B.E.—Ghosts of Winterborne
 * Downtime
-* The Curse of Fatal Death
 * Cyberon
 * Auton
 * Auton 2—Sentinel
 * Auton 3—Awakening
 * Zygon—When Being You Just Isn’t Enough
 * Dæmos Rising
+
+## Alternate Ninth Doctors
+
+* Doctor Who and Crayola
+* The Curse of Fatal Death
 * TARDIS Tennis (Game)
+* The Web of Caves
 * Scream of the Shalka (1)—The Sound of Silence
 * Scream of the Shalka (2)—Sound of the Underground
 * Scream of the Shalka (3)—Meet the Monsters
@@ -921,6 +933,7 @@
 
 ## Season 1 / Ninth Doctor (Christopher Eccleston)
 
+* The Day of the Doctor [Rewatch 9]
 * Doctor Who (2005) - s01e01 - Rose
 * Doctor Who (2005) - s01e02 - The End of the World
 * Doctor Who (2005) - s01e03 - The Unquiet Dead
@@ -937,7 +950,7 @@
 
 ## Season 2 / Tenth Doctor: David Tennant
 
-* Born Again
+* Born Again (Children in Need Special)
 * The Christmas Invasion
 * Attack of the Graske (Game)
 * Security Bot (Game)
@@ -965,14 +978,15 @@
 * Doctor Who (2005) - s02e10 - Love & Monsters
 * Defend This (Game)
 * Tardisode (11)—Fear Her
-* Doctor Who (2005) - s02e11 - Fear Her
+* Doctor Who (2005) - s02e11 - Fear Her — until the Doctor gets trapped (~31:00)
 * Art Attack (Game)
+* Doctor Who (2005) - s02e11 - Fear Her — after the Doctor gets trapped (~31:00)
 * Tardisode (12)—Army of Ghosts
 * Doctor Who (2005) - s02e12 - Army of Ghosts
 * Ghostwatch (Game)
+* Ood Escape (Game)
 * Tardisode (13)—Doomsday
 * Doctor Who (2005) - s02e13 - Doomsday
-* Ood Escape
 * The Runaway Bride
 * Torchwood - s01e01 - Everything Changes
 * Torchwood - s01e02 - Day One
@@ -983,32 +997,34 @@
 ## Season 3 / Tenth Doctor: David Tennant
 
 * Doctor Who (2005) - s03e01 - Smith and Jones
-* Torchwood - s01e04 - Cyberwoman
 * Doctor Who (2005) - s03e02 - The Shakespeare Code
-* Torchwood - s01e05 - Small Worlds
 * Doctor Who (2005) - s03e03 - Gridlock
+* Torchwood - s01e04 - Cyberwoman
+* Torchwood - s01e05 - Small Worlds
 * Torchwood - s01e06 - Countrycide
 * Doctor Who (2005) - s03e04 - Daleks in Manhattan
-* Torchwood - s01e07 - Greeks Bearing Gifts
 * Doctor Who (2005) - s03e05 - Evolution of the Daleks
+* Torchwood - s01e07 - Greeks Bearing Gifts
 * Torchwood - s01e08 - They Keep Killing Suzie
 * Doctor Who (2005) - s03e06 - The Lazarus Experiment
-* The Infinite Quest
 * Torchwood - s01e09 - Random Shoes
 * Doctor Who (2005) - s03e07 - 42
+* The Infinite Quest
 * Torchwood - s01e10 - Out of Time
 * Doctor Who (2005) - s03e08 - Human Nature
-* Torchwood - s01e11 - Combat
 * Doctor Who (2005) - s03e09 - The Family of Blood
+* Torchwood - s01e11 - Combat
 * Torchwood - s01e12 - Captain Jack Harkness
 * Doctor Who (2005) - s03e10 - Blink
 * Torchwood - s01e13 - End of Days
 * Doctor Who (2005) - s03e11 - Utopia
 * Doctor Who (2005) - s03e12 - The Sound of Drums
-* Doctor Who (2005) - s03e13 - Last of the Time Lords
-* Eye of the TARDIS (Game)
+* Doctor Who (2005) - s03e13 - Last of the Time Lords — until Martha leaves the TARDIS (~51:56)
 * Time Crash [Rewatch]
+* Doctor Who (2005) - s03e13 - Last of the Time Lords — after Martha leaves the TARDIS (~51:56)
 * The Voyage of the Damned
+* Doctor in a Dash (Game)
+* Eye of the TARDIS (Game)
 
 ## Season 4 / Tenth Doctor: David Tennant
 
@@ -1029,8 +1045,10 @@
 * Monster Files—Ood
 * Doctor Who (2005) - s04e04 - The Sontaran Stratagem
 * Doctor Who (2005) - s04e05 - The Poison Sky
+* Doctor Who (2005) - s04e06 - The Doctor’s Daughter
 * Monster Files—Slitheen
 * Monster Files—Sontaran
+* Monster Files—Hath
 * Torchwood - s02e04 - Meat
 * Torchwood - s02e05 - Adam
 * Torchwood - s02e06 - Reset
@@ -1038,33 +1056,31 @@
 * Torchwood - s02e08 - A Day in the Death
 * Torchwood - s02e09 - Something Borrowed
 * Torchwood - s02e10 - From Out of the Rain
-* Doctor Who (2005) - s04e06 - The Doctor’s Daughter
-* Monster Files—Hath
 * Doctor Who (2005) - s04e07 - The Unicorn and the Wasp
 * Monster Files—Vespiform
 * Doctor Who (2005) - s04e08 - Silence in the Library
+* Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 9]
 * Doctor Who (2005) - s04e09 - Forest of the Dead
 * Monster Files—Judoon
 * Monster Files—Vashta Nerada
 * Doctor Who (2005) - s04e10 - Midnight
 * Monster Files—Midnight
 * Doctor Who (2005) - s04e11 - Turn Left
+* Doctor Who (2005) - s04e12 - The Stolen Earth [Rewatch]
+* Doctor Who (2005) - s04e13 - The Journey’s End
 * Monster Files—Trickster’s Brigade
+* Monster Files—Dalek
+* Monster Files—Davros
 * Torchwood - s02e11 - Adrift
 * Torchwood - s02e12 - Fragments
 * Torchwood - s02e13 - Exit Wounds
 * The Sarah Jane Adventures - s01e07 - Whatever Happened to Sarah Jane? (1)
 * The Sarah Jane Adventures - s01e08 - Whatever Happened to Sarah Jane? (2)
-* Doctor Who (2005) - s04e12 - The Stolen Earth [Rewatch]
-* Monster Files—Dalek
-* Doctor Who (2005) - s04e13 - The Journey’s End
-* Monster Files—Davros
-* Doctor in a Dash (Game)
 * Dalek Break-out (Game)
+* Doctor Who at the Proms 2008—Music of the Spheres
 * Jobsworth Judoon (Game)
 * The Sarah Jane Adventures - s01e09 - The Lost Boy (1)
 * The Sarah Jane Adventures - s01e10 - The Lost Boy (2)
-* Doctor Who at the Proms 2008—Music of the Spheres
 * The Next Doctor
 * Monster Files—Cybermen
 * Planet of the Dead
@@ -1086,8 +1102,6 @@
 * The Sarah Jane Adventures - s02e11 - Enemy of the Bane (1)
 * The Sarah Jane Adventures - s02e12 - Enemy of the Bane (2)
 * Liberty Hall
-* The Waters of Mars
-* Dreamland
 * The Sarah Jane Adventures - s00e02 - From Raxacoricofallapatorius with Love
 * The Sarah Jane Adventures - s03e01 - Prisoner of the Judoon (1)
 * The Sarah Jane Adventures - s03e02 - Prisoner of the Judoon (2)
@@ -1098,6 +1112,9 @@
 * The Sarah Jane Adventures - s03e05 - The Wedding of Sarah Jane Smith (1)
 * The Sarah Jane Adventures - s03e06 - The Wedding of Sarah Jane Smith (2)
 * Sarah Jane’s Alien Files Webisodes: The Wedding of Sarah Jane Smith: The Doctor Alien File
+* The Waters of Mars
+* The Day of the Doctor [Rewatch 10]
+* Dreamland
 * The Sarah Jane Adventures - s03e07 - The Eternity Trap (1)
 * The Sarah Jane Adventures - s03e08 - The Eternity Trap (2)
 * Sarah Jane’s Alien Files Webisodes: The Eternity Trap: Erasmus Darkening Alien File
@@ -1108,7 +1125,15 @@
 * The Sarah Jane Adventures - s03e12 - The Gift (2)
 * Sarah Jane’s Alien Files Webisodes: The Gift: Blathereen Alien File
 * The End of Time (1)
+* The Sarah Jane Adventures - s04e06 - Death of the Doctor (2)
 * The End of Time (2)
+
+## Season 5 / Eleventh Doctor: Matt Smith
+
+* Doctor Who (2005) - s05e01 - The Eleventh Hour
+* Meanwhile in the TARDIS (1)
+* Doctor Who (2005) - s05e02 - The Beast Below
+* Doctor Who (2005) - s05e03 - Victory of the Daleks
 * Monster Files—Christmas
 * A Ghost Story for Christmas
 * K-9 - s01e01 - Regeneration (1)
@@ -1123,25 +1148,17 @@
 * K-9 - s01e10 - Curse of Anubis
 * K-9 - s01e11 - Oroborus
 * K-9 - s01e12 - Alien Avatar
-
-## Season 5 / Eleventh Doctor: Matt Smith
-
-* Doctor Who (2005) - s05e01 - The Eleventh Hour
 * K-9 - s01e13 - Aeolian
-* Meanwhile in the TARDIS (1)
-* Doctor Who (2005) - s05e02 - The Beast Below
 * K-9 - s01e14 - The Last Oak Tree
-* Doctor Who (2005) - s05e03 - Victory of the Daleks
-* Vortex Run (Game)
 * K-9 - s01e15 - Black Hunger
 * Doctor Who (2005) - s05e04 - The Time of Angels (1)
 * Doctor Who (2005) - s05e05 - Flesh and Stone (2)
-* Monster Files—Weeping Angels
-* K-9 - s01e16 - The Cambridge Spy
 * Meanwhile in the TARDIS (2)
-* K-9 - s01e17 - Lost Library of Ukko
 * Doctor Who (2005) - s05e06 - The Vampires of Venice
+* Monster Files—Weeping Angels
 * Monster Files—Vampires
+* K-9 - s01e16 - The Cambridge Spy
+* K-9 - s01e17 - Lost Library of Ukko
 * K-9 - s01e18 - Mutant Copper
 * Doctor Who (2005) - s05e07 - Amy’s Choice
 * K-9 - s01e19 - The Custodians
@@ -1149,46 +1166,48 @@
 * Doctor Who (2005) - s05e09 - Cold Blood (2)
 * Monster Files—Homo Reptilia
 * K-9 - s01e20 - Taphony and the Time Loop
+* City of the Daleks (Game)
 * Good as Gold
 * K-9 - s01e21 - Robot Gladiators
 * Doctor Who (2005) - s05e10 - Vincent and the Doctor
-* City of the Daleks (Game)
+* Angels in the Shadows (Game)
 * Blood of the Cybermen (Game)
 * TARDIS (Game)
 * Shadows of the Vashta Nerada (Game)
+* The Christmas Trap (Game)
+* Return to Earth (Game)
+* Evacuation Earth (Game)
 * Doctor Who (2005) - s05e11 - The Lodger
 * K-9 - s01e22 - Mind Snap (1)
 * K-9 - s01e23 - Angel of the North (2)
 * K-9 - s01e24 - The Last Precinct (3)
 * K-9 - s01e25 - Hound of the Korven (4)
 * K-9 - s01e26 - The Eclipse of the Korven (5)
-* Return to Earth (Game)
-* Evacuation Earth (Game)
 * The Mazes of Time (Game)
-* The Christmas Trap (Game)
-* Angels in the Shadows (Game)
+* Vortex Run (Game)
 * Doctor Who (2005) - s05e12 - The Pandorica Opens (1)
 
 ## Season 6 / Eleventh Doctor: Matt Smith
 
+* Doctor Who (2005) - s05e13 - The Big Bang (2)
 * The Sarah Jane Adventures - s04e01 - The Nightmare Man (1)
 * The Sarah Jane Adventures - s04e02 - The Nightmare Man (2)
 * The Sarah Jane Adventures - s04e03 - The Vault of Secrets (1)
 * The Sarah Jane Adventures - s04e04 - The Vault of Secrets (2)
 * Sarah Jane’s Alien Files episode 1: The Trickster and Krislok the Graske
 * Sarah Jane’s Alien Files episode 2: Pied Piper, Ship and Eve
-* Doctor Who (2005) - s05e13 - The Big Bang (2)
 * Amy’s History Hunt (Game)
 * Doctor Who at the Proms 2010
 * The Sarah Jane Adventures - s04e05 - Death of the Doctor (1)
-* The Sarah Jane Adventures - s04e06 - Death of the Doctor (2)
+* The Sarah Jane Adventures - s04e06 - Death of the Doctor (2) [Rewatch]
 * Sarah Jane’s Alien Files episode 3: Sontarans, Wormwood and the Bane Mother
-* Night and the Doctor—Bad Night
-* Night and the Doctor—Good Night
+* Death is the Only Answer
 * A Christmas Carol
 * Dermot and the Doctor
 * Space (1)
 * Time (2)
+* Night and the Doctor—Bad Night
+* Night and the Doctor—Good Night
 * The Sarah Jane Adventures - s04e07 - The Empty Planet (1)
 * The Sarah Jane Adventures - s04e08 - The Empty Planet (2)
 * Sarah Jane’s Alien Files episode 4: Slitheen, Blathereen and Rakweed
@@ -1208,12 +1227,12 @@
 * Doctor Who (2005) - s06e06 - The Almost People (2)
 * A Good Man Goes to War Prequel
 * Doctor Who (2005) - s06e07 - A Good Man Goes to War (1)
-* The Battle of Demon’s Run—Two Days Later
+* The Crash of the Elysium
 * Let’s Kill Hitler Prequel
 * Doctor Who (2005) - s06e08 - Let’s Kill Hitler (2)
-* Night and the Doctor—First Night
-* Night and the Doctor—Last Night
+* The Battle of Demon’s Run—Two Days Later
 * Doctor Who (2005) - s06e09 - Night Terrors
+* Night and the Doctor—First Night
 * Doctor Who (2005) - s06e10 - The Girl Who Waited
 * Torchwood - s04e01 - The New World
 * Torchwood - s04e02 - Rendition
@@ -1230,13 +1249,15 @@
 * Torchwood - Web of Lies
 * The Gunpowder Plot (Game)
 * Doctor Who (2005) - s06e11 - The God Complex
-* Death is the Only Answer
 * Night and the Doctor—Up All Night
+* The Doctor, the Widow and the Wardrobe Prequel
+* The Doctor, the Widow and the Wardrobe [a.k.a. The Doctor’s Clothes]
+* Escape the Silence (Game)
+* Maze of the Dead (Game)
 * Doctor Who (2005) - s06e12 - Closing Time
 * The Wedding of River Song Prequel
 * Doctor Who (2005) - s06e13 - The Wedding of River Song
 * River Song—Her Story
-* The Inforarium
 * The Sarah Jane Adventures - s05e01 - Sky (1)
 * The Sarah Jane Adventures - s05e02 - Sky (2)
 * The Sarah Jane Adventures - s05e03 - The Curse of Clyde Langer (1)
@@ -1247,12 +1268,7 @@
 * The Keys of Time (Game)
 * Worlds in Time (Game)
 * Dalek Supremacy (Game)
-* Escape the Silence (Game)
-* Maze of the Dead (Game)
-* The Doctor, the Widow and the Wardrobe Prequel
-* The Doctor, the Widow and the Wardrobe [a.k.a. The Doctor’s Clothes]
 * Pond Life (1)—April
-* Pond Life (2)—May
 * Pond Life (3)—June
 * Pond Life (4)—July
 * Pond Life (5)—August
@@ -1261,13 +1277,15 @@
 
 * Asylum of the Daleks Prequel
 * Doctor Who (2005) - s07e01 - Asylum of the Daleks
+* The Inforarium
 * Doctor Who (2005) - s07e02 - Dinosaurs on a Spaceship
+* Pond Life (2)—May
 * The Making of the Gunslinger (A Town Called Mercy Prequel)
 * Doctor Who (2005) - s07e03 - A Town Called Mercy
 * Doctor Who (2005) - s07e04 - The Power of Three
 * Doctor Who (2005) - s07e05 - The Angels Take Manhattan
+* Night and the Doctor—Last Night
 * PS
-* Rain Gods
 * The Great Detective
 * Vastra Investigates—A Christmas Prequel
 * The Snowmen
@@ -1282,10 +1300,13 @@
 * Doctor Who (2005) - s07e12 - Nightmare in Silver
 * She Said, He Said (The Name of the Doctor Prequel)
 * Clarence and the Whispermen (The Name of the Doctor Prequel)
-* Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 6]
+* Doctor Who (2005) - s07e13 - The Name of the Doctor [Rewatch 10]
+* The History of the Doctor
+* Rain Gods
+* A Night with the Stars
 * Doctor Who at the Proms 2013
 * The Last Day
-* The Day of the Doctor [Rewatch 8]
+* The Day of the Doctor [Rewatch 11]
 
 ## Season 8 / Twelfth Doctor: Peter Capaldi
 
@@ -1298,6 +1319,7 @@
 * Doctor Who (2005) - s08e05 - Time Heist
 * Doctor Who (2005) - s08e06 - The Caretaker
 * Doctor Who (2005) - s08e07 - Kill the Moon
+* The Doctor and the Dalek (Game)
 * Doctor Who (2005) - s08e08 - Mummy on the Orient Express
 * Doctor Who (2005) - s08e09 - Flatline
 * Doctor Who (2005) - s08e10 - In the Forest of the Night
@@ -1319,12 +1341,11 @@
 * Doctor Who (2005) - s09e08 - The Zygon Inversion (2)
 * Doctor Who (2005) - s09e09 - Sleep No More
 * Doctor Who (2005) - s09e10 - Face the Raven
-* When to Die
 * Doctor Who (2005) - s09e11 - Heaven Sent (1)
 * Doctor Who (2005) - s09e12 - Hell Bent (2)
-* The Husbands of River Song
-* Don’t Blink (Game)
+* When to Die
 * Class - s01e01 - For Tonight We Might Die
+* Don’t Blink (Game)
 * Class - s01e02 - The Coach with the Dragon Tattoo
 * Class - s01e03 - Nightvisiting
 * Class - s01e04 - Co-Owner of a Lonely Heart
@@ -1333,6 +1354,7 @@
 * Class - s01e07 - The Metaphysical Engine, or What Quill Did
 * Class - s01e08 - The Lost
 * The Return of Doctor Mysterio
+* The Husbands of River Song
 
 ## Season 10 / Twelfth Doctor: Peter Capaldi
 
@@ -1347,19 +1369,18 @@
 * Doctor Who (2005) - s10e08 - The Lie of the Land
 * Doctor Who (2005) - s10e09 - Empress of Mars
 * Doctor Who (2005) - s10e10 - The Eaters of Light
-* Doctor Who (2005) - s10e11 - World Enough and Time
-* The Doctor Falls
 * Lost in the Dark Dimension (1) (Fan Animation) [Rewatch 3]
 * Lost in the Dark Dimension (2) (Fan Animation) [Rewatch 3]
 * Lost in the Dark Dimension (3) (Fan Animation) [Rewatch 3]
 * Lost in the Dark Dimension (4) (Fan Animation) [Rewatch 3]
 * Lost in the Dark Dimension (5) (Fan Animation) [Rewatch 3]
 * Lost in the Dark Dimension (6) (Fan Animation) [Rewatch 3]
-* The Doctor and the Dalek (Game)
 * The Saviour of Time (Game)
+* White Witch of Devil’s End
+* Doctor Who (2005) - s10e11 - World Enough and Time
+* The Doctor Falls [Rewatch]
+* Twice Upon a Time [Rewatch]
 
 ## Unreleased
 
-* Twice Upon a Time (Christmas Special)
-* K9: Timequake
-* White Witch of Devil’s End
+* K9: TimeQuake
