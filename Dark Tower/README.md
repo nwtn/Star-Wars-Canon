@@ -24,14 +24,14 @@ This isn’t so much an order I think is *right* as it is the order I have read 
 * From a Buick 8
 * **The Dark Tower: The Wind Through the Keyhole**
 * **The Dark Tower V: Wolves of the Calla**
-* Different Seasons/“Rita Hayworth & Shawshank Redemption”
-* 11/22/63, by Stephen King
+* 11/22/63
 * Lisey’s Story
 * **The Dark Tower VI: Song of Susannah**
 * Cujo, by Stephen King
 * **The Dark Tower VII: The Dark Tower**
 * **The Dark Tower I: The Gunslinger**
 * Charlie the Choo-Choo
+* Different Seasons/“Rita Hayworth & Shawshank Redemption”
 * The Shining
 * Cell
 * Just After Sunset/“N”
