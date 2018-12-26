@@ -1377,6 +1377,9 @@
 * Lost in the Dark Dimension (6) (Fan Animation) [Rewatch 3]
 * The Saviour of Time (Game)
 * White Witch of Devil’s End
+* Doctor Who and the micro:bit
+* Doctor Who and the micro:bit 2: Defeat the Daleks
+* Dalek Hack (Game)
 * Doctor Who (2005) - s10e11 - World Enough and Time
 * The Doctor Falls [Rewatch]
 * Twice Upon a Time [Rewatch]
