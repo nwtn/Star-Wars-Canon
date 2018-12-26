@@ -1382,7 +1382,32 @@
 * Dalek Hack (Game)
 * Doctor Who (2005) - s10e11 - World Enough and Time
 * The Doctor Falls [Rewatch]
+
+## Season 11 / Thirteenth Doctor: Jodie Whittaker
+
 * Twice Upon a Time [Rewatch]
+* Doctor Who (2005) - s11e01 - The Woman Who Fell to Earth
+* Case File One: The Stenza
+* Doctor Who (2005) - s11e02 - The Ghost Monument
+* Case File Two: The Remnants
+* Doctor Who (2005) - s11e03 - Rosa
+* Case File Three: Krasko
+* Doctor Who (2005) - s11e04 - Arachnids in the UK
+* Case File Four: Mutant Spiders
+* Doctor Who (2005) - s11e05 - The Tsuranga Conundrum
+* Case File Five: Pting
+* Doctor Who (2005) - s11e06 - Demons of the Punjab
+* Case File Six: Thijarians
+* Doctor Who, Space, Light and Super Movers
+* Doctor Who (2005) - s11e07 - Kerblam!
+* Case File Seven: The Postmen
+* Doctor Who (2005) - s11e08 - The Witchfinders
+* Case File Eight: Morax
+* Doctor Who (2005) - s11e09 - It Takes You Away
+* Case File Nine: Creatures of the Antizone
+* Doctor Who (2005) - s11e10 - The Battle of Ranskoor Av Kolos
+* Case File Ten: The Ux
+* ’Twas the Night Before Christmas
 
 ## Unreleased
 
