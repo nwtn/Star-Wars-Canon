@@ -420,7 +420,6 @@
 * Mindgame
 * Mindgame: Trilogy
 * TARDIS Cam No.5: The Time Tunnel
-* Timelash
 * UNIT Recruitment Film
 * Doctor Who (1963) - s10e21 - The Green Death (1) — until the Doctor leaves Metebelis III (~20:01)
 * Destiny of the Doctors—The 3rd Doctor (Game)
